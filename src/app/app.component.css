@@ -1,0 +1,14 @@
+.hex {
+  position: relative;
+  display: inline-block;
+}
+
+.hex:nth-child(odd) {
+  top: 70px;
+}
+
+#hex-container {
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
