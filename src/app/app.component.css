@@ -7,6 +7,12 @@
   top: 70px;
 }
 
+.hex svg path{
+  fill: red;
+  stroke: black;
+  stroke-width: 3px;
+}
+
 #hex-container {
   width: 90%;
   height: auto;
